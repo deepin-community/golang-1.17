@@ -1,0 +1,1 @@
+{"project":"golang","type":"","version":" 2:1.17~1","hierarchy":"","priority":"","maintainer":"","packager":"","builddeps":" debhelper-compat (= 13), dh-exec, ","homepage":" https://golang.org","git":"https://github.com/golang/go.git"}
